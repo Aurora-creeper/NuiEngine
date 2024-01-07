@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "electron": "^28.1.1"
+  },
+  "name": "nui-engine",
+  "version": "0.0.1",
+  "description": "none",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aurora-creeper/NuiEngine.git"
+  },
+  "keywords": [
+    "galgame",
+    "engine"
+  ],
+  "author": "Aurora5090",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aurora-creeper/NuiEngine/issues"
+  },
+  "homepage": "https://github.com/Aurora-creeper/NuiEngine#readme"
+}
